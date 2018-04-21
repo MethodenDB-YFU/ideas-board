@@ -3,12 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ajv": "^6.4.0",
+    "antd": "3.4.1",
+    "draft-js-export-html": "1.2.0",
+    "megadraft": "0.4.37",
+    "prop-types": "15.6.1",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
+    "react-flexbox-grid": "2.0.0",
     "react-router-dom": "4.2.2",
-    "react-scripts": "1.1.4",
-    "antd": "3.4.1",
-    "react-flexbox-grid": "2.0.0"
+    "react-scripts": "1.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
